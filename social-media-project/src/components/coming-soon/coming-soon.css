@@ -1,0 +1,15 @@
+.comingsoon {
+    float: right;
+    padding-left: 0px;
+    display: inline-flex;
+    position: relative;
+    float: right;
+    /* padding-left: 0px; */
+    display: inline-flex;
+    place-content: center;
+    background-color: #efefef;
+    /* margin-left: 373px; */
+    left: 15px;
+    padding-top: 275px;
+    padding-bottom: 275px;
+}

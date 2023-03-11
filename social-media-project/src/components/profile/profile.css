@@ -1,0 +1,28 @@
+.profile {
+    float: right;
+    padding-left: 0px;
+    display: inline-flex;
+}
+
+.profile-div1 {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.heading {
+    color: lightslategrey;
+}
+
+.vl {
+    border-right: 2px solid #e0e0e0;
+    height: 600px;
+}
+
+.address-detail {
+    margin-left: 35px;
+}
+
+.chats {
+    margin-left: 700px !important;
+    float: right !important;
+}

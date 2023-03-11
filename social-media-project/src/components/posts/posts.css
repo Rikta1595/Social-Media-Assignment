@@ -1,0 +1,52 @@
+.chats {
+    margin-left: 700px !important;
+    float: right !important;
+}
+
+.comingsoon {
+    float: right;
+    padding-left: 0px;
+    display: inline-flex;
+    position: relative;
+    float: right;
+    /* padding-left: 0px; */
+    display: inline-flex;
+    place-content: center;
+    background-color: #efefef;
+    /* margin-left: 373px; */
+    left: 15px;
+    padding-top: 275px;
+    padding-bottom: 275px;
+}
+
+@media screen and (max-width: 700px) {
+    .comingsoon {
+        float: right;
+        padding-left: 0px;
+        display: inline-flex;
+        position: relative;
+        float: right;
+        left: 0px !important;
+        display: inline-flex;
+        place-content: center;
+        background-color: #efefef;
+        padding-top: 275px;
+        padding-bottom: 275px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .comingsoon {
+        float: right;
+        padding-left: 0px;
+        display: inline-flex;
+        position: relative;
+        float: right;
+        left: 0px !important;
+        display: inline-flex;
+        place-content: center;
+        background-color: #efefef;
+        padding-top: 275px;
+        padding-bottom: 275px;
+    }
+  }

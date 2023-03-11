@@ -1,0 +1,15 @@
+.nav-btn {
+    width: 100% !important;
+    /* height: 100px; */
+    background-color: #f9f9f9 !important;
+    padding: 0 !important;
+    border: none;
+}
+
+.popup {
+    margin-left: 500px !important;
+    text-align: center !important;
+    width: 30% !important;
+    z-index: 2 !important;
+    position: absolute !important;
+}
